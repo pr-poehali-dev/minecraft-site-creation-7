@@ -48,7 +48,7 @@ const Index = () => {
     },
     {
       name: "PREMIUM",
-      price: 599,
+      price: 100,
       features: ["Все из VIP", "Креатив мод", "50 домов", "Админ команды", "Эксклюзивный контент"],
       popular: false,
       color: "from-blue-600 to-blue-800"
