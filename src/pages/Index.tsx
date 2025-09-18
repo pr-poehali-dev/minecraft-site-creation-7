@@ -52,6 +52,13 @@ const Index = () => {
       features: ["Все из VIP", "Креатив мод", "50 домов", "Админ команды", "Эксклюзивный контент"],
       popular: false,
       color: "from-blue-600 to-blue-800"
+    },
+    {
+      name: "PLASMA",
+      price: 200,
+      features: ["Все из PREMIUM", "Админ права", "100 домов", "Особые предметы", "Приоритетная поддержка"],
+      popular: false,
+      color: "from-purple-600 to-purple-800"
     }
   ]
 
