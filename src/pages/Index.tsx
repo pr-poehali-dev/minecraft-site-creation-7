@@ -33,7 +33,7 @@ const Index = () => {
 
   const donationPackages = [
     {
-      name: "ИГРОК",
+      name: "VIP",
       price: 99,
       features: ["Цветной ник", "5 домов", "Приватные сундуки", "Базовые команды"],
       popular: false,
