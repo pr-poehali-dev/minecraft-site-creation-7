@@ -41,7 +41,7 @@ const Index = () => {
     },
     {
       name: "VIP",
-      price: 299,
+      price: 50,
       features: ["Все из ИГРОК", "Полет", "15 домов", "VIP чат", "Кит каждый день"],
       popular: true,
       color: "from-green-600 to-green-800"
