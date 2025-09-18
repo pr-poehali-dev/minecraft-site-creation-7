@@ -34,7 +34,7 @@ const Index = () => {
   const donationPackages = [
     {
       name: "VIP",
-      price: 99,
+      price: 20,
       features: ["Цветной ник", "5 домов", "Приватные сундуки", "Базовые команды"],
       popular: false,
       color: "from-gray-600 to-gray-800"
